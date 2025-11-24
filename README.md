@@ -1,2 +1,2 @@
-# tutoriales_PPDIH
-Notebook de tutoriales para uso de la plataforma PPDIH, del INAMHI aquí se presentaran tutoriales o guías de uso de la plataforma para el procesamiento de datos  
+# Tutoriales_PPDIH
+Este repositorio al macena lso notebooks desarrollados como guías para el procesamiento de información hidroemteorológica. este repositorio público almacenara y actualizara las guías continuamente y se mostrará como insformación de autoaprendizaje.  
